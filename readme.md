@@ -6,7 +6,8 @@ An application script for windows users to emulate standard US english keyboard 
 * First download AutoHotKey Application from [here](https://www.autohotkey.com/download/ahk-install.exe) to run above script
 * Install the application and Download the above script.
 * Run the script by double clicking on it.
-* For future ease of running script, you can also configure it to run at startup of your system. This way you don't need to always manually run the script
+* For future ease of running script, you can also configure it to run at startup of your system. This way you don't need to always manually run the script. 
+
  __Now just enjoy typing german characters using your standard US english keyboard without messing with keyboard settings in your control panel.__
 
 # Usage
