@@ -27,7 +27,7 @@ Send,Ü
 return
 
 !"::
-Send,„
+Send,„“
 return
 
 !4::
